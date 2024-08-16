@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mizanur Rahman</h1>
 <h3 align="center">A passionate SQAE from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mizanurrahman37&label=Profile%20views&color=0e75b6&style=flat" alt="mizanurrahman37" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizanurrahman37" alt="mizanurrahman37" /></a> </p>
-
 - 🔭 I’m currently working on [BISDP](https://bisdp.gov.bd/)
 
 - 🌱 I’m currently learning **QA Automation**
@@ -28,8 +24,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizanurrahman37&show_icons=true&locale=en&layout=compact" alt="mizanurrahman37" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mizanurrahman37&show_icons=true&locale=en" alt="mizanurrahman37" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizanurrahman37&" alt="mizanurrahman37" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizanurrahman37&show_icons=true&locale=en&layout=compact" alt="mizanurrahman37" /></p>
